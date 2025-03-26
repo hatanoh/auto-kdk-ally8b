@@ -1,0 +1,3 @@
+
+config SHIELD_ALLY8B
+    def_bool $(shields_list_contains,ally8b)

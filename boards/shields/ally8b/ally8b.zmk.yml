@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: ally8b
+name: ally8b
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble

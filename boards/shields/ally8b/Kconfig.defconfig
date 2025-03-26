@@ -1,0 +1,6 @@
+
+if SHIELD_ALLY8B
+config ZMK_KEYBOARD_NAME
+    default "ally8b"
+
+endif
