@@ -10,7 +10,7 @@
             bindings =<
                 &none &none &none &none &none &none &none &none &none &none &none &none
 				&none &none &none &none &none &none &none &none &none &none &none
-				&none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none &none &none &none
 				&none &none &none &none &none &none &none &none
             >;
         };
