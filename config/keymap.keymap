@@ -6,7 +6,23 @@
     keymap {
         compatible = "zmk,keymap";
 
-        defualt_layer {
+        default_layer {
+            bindings =<
+                &none &none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none
+            >;
+        };
+        meta_layer {
+            bindings =<
+                &none &none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none &none &none &none
+				&none &none &none &none &none &none &none &none
+            >;
+        };
+        func_layer {
             bindings =<
                 &none &none &none &none &none &none &none &none &none &none &none &none
 				&none &none &none &none &none &none &none &none &none &none &none
